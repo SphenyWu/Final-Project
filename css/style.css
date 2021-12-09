@@ -1,0 +1,67 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+#title {
+  color:white;
+  background-color: skyblue;
+  position: absolute;
+  top: 100px;
+  width: 100%;
+  font-size: 45px;
+  font-style: bold;
+}
+
+.img {
+  position: absolute;
+  float: right;
+}
+
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+
+  text-align: center;
+  font-style: italic;
+  font-size: 150px;
+  color: skyblue;
+}
+
+
+
+
+#div{
+  float: inherit;
+  padding: 15px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+}
+
+#div1{
+  float: inherit;
+  padding: 15px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+}
+
+#div2{
+  float: inherit;
+  padding: 15px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.div3{
+  color: cyan;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+}
